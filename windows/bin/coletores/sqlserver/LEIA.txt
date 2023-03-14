@@ -1,3 +1,0 @@
-SCRIPTS_NATIVOS_FERRAMENTA => Scripts padrão do template sqlserver - NAO devem ser alterados
-
-SCRIPTS_CUSTOMIZADOS => Scripts que temos controle e realizamos alterações
