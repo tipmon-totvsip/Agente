@@ -1,0 +1,1110 @@
+  6624:20221223:114611.304 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+  6624:20221223:114611.304 **** Enabled features ****
+  6624:20221223:114611.305 IPv6 support:          YES
+  6624:20221223:114611.305 TLS support:            NO
+  6624:20221223:114611.305 **************************
+  6624:20221223:114611.305 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+  6624:20221223:114611.305 agent #0 started [main process]
+ 12048:20221223:114611.306 agent #2 started [active checks #1]
+  2760:20221223:114611.306 agent #1 started [collector]
+ 12048:20221223:114632.357 active check configuration update from [tipmon.totvsip.com.br:10991] started to fail (cannot connect to [[tipmon.totvsip.com.br]:10991]: A connection timeout occurred.)
+  9020:20221223:114751.983 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+ 14208:20221223:114835.107 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+ 14208:20221223:114835.108 **** Enabled features ****
+ 14208:20221223:114835.108 IPv6 support:          YES
+ 14208:20221223:114835.108 TLS support:            NO
+ 14208:20221223:114835.108 **************************
+ 14208:20221223:114835.108 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+ 14208:20221223:114835.108 agent #0 started [main process]
+  1512:20221223:114835.110 agent #1 started [collector]
+  4712:20221223:114835.111 agent #2 started [active checks #1]
+  4712:20221223:114835.118 no active checks on server [tipmon.totvsip.com.br:10051]: host [ded_BROSDK015_windows] not monitored
+ 12944:20221223:115019.627 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+  4556:20221223:115023.159 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+  4556:20221223:115023.159 **** Enabled features ****
+  4556:20221223:115023.159 IPv6 support:          YES
+  4556:20221223:115023.159 TLS support:            NO
+  4556:20221223:115023.159 **************************
+  4556:20221223:115023.159 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+  4556:20221223:115023.159 agent #0 started [main process]
+  5756:20221223:115023.160 agent #1 started [collector]
+  9564:20221223:115023.162 agent #2 started [active checks #1]
+ 10608:20221223:115221.535 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+  5720:20221223:115222.000 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+  5720:20221223:115222.000 **** Enabled features ****
+  5720:20221223:115222.000 IPv6 support:          YES
+  5720:20221223:115222.000 TLS support:            NO
+  5720:20221223:115222.000 **************************
+  5720:20221223:115222.000 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+  5720:20221223:115222.001 agent #0 started [main process]
+   800:20221223:115222.001 agent #2 started [active checks #1]
+ 13916:20221223:115222.001 agent #1 started [collector]
+ 11080:20221223:121408.158 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+ 14708:20221223:121753.831 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+ 14708:20221223:121753.831 **** Enabled features ****
+ 14708:20221223:121753.832 IPv6 support:          YES
+ 14708:20221223:121753.832 TLS support:            NO
+ 14708:20221223:121753.832 **************************
+ 14708:20221223:121753.832 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+ 14708:20221223:121753.832 agent #0 started [main process]
+ 13636:20221223:121753.833 agent #1 started [collector]
+  8956:20221223:121753.833 agent #2 started [active checks #1]
+  9852:20221223:121820.301 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+ 13456:20221223:121820.312 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+ 13456:20221223:121820.312 **** Enabled features ****
+ 13456:20221223:121820.313 IPv6 support:          YES
+ 13456:20221223:121820.313 TLS support:            NO
+ 13456:20221223:121820.313 **************************
+ 13456:20221223:121820.313 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+ 13456:20221223:121820.313 agent #0 started [main process]
+  4948:20221223:121820.314 agent #2 started [active checks #1]
+ 10696:20221223:121820.314 agent #1 started [collector]
+ 13536:20221223:121845.978 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+ 13356:20221223:121846.505 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+ 13356:20221223:121846.505 **** Enabled features ****
+ 13356:20221223:121846.506 IPv6 support:          YES
+ 13356:20221223:121846.506 TLS support:            NO
+ 13356:20221223:121846.506 **************************
+ 13356:20221223:121846.506 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+ 13356:20221223:121846.506 agent #0 started [main process]
+  6464:20221223:121846.507 agent #2 started [active checks #1]
+ 12208:20221223:121846.507 agent #1 started [collector]
+  3292:20221223:121930.915 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+  3068:20221223:121931.457 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+  3068:20221223:121931.457 **** Enabled features ****
+  3068:20221223:121931.457 IPv6 support:          YES
+  3068:20221223:121931.457 TLS support:            NO
+  3068:20221223:121931.457 **************************
+  3068:20221223:121931.458 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+  3068:20221223:121931.458 agent #0 started [main process]
+  9152:20221223:121931.458 agent #1 started [collector]
+ 13848:20221223:121931.458 agent #2 started [active checks #1]
+ 12104:20221223:122014.963 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+  6464:20221223:122456.870 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+  6464:20221223:122456.871 **** Enabled features ****
+  6464:20221223:122456.871 IPv6 support:          YES
+  6464:20221223:122456.871 TLS support:            NO
+  6464:20221223:122456.871 **************************
+  6464:20221223:122456.871 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+  6464:20221223:122456.871 agent #0 started [main process]
+ 14072:20221223:122456.872 agent #2 started [active checks #1]
+ 13240:20221223:122456.872 agent #1 started [collector]
+ 14072:20221223:122503.984 active check "system.cpu.load[percpu,avg15]" is not supported: Collector is not started.
+ 15068:20221223:122503.986 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+ 14024:20221223:122504.745 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+ 14024:20221223:122504.745 **** Enabled features ****
+ 14024:20221223:122504.745 IPv6 support:          YES
+ 14024:20221223:122504.745 TLS support:            NO
+ 14024:20221223:122504.745 **************************
+ 14024:20221223:122504.746 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+ 14024:20221223:122504.746 agent #0 started [main process]
+ 11508:20221223:122504.746 agent #1 started [collector]
+ 11520:20221223:122504.746 agent #2 started [active checks #1]
+ 12496:20221223:122620.870 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+ 11408:20221223:122621.111 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+ 11408:20221223:122621.111 **** Enabled features ****
+ 11408:20221223:122621.111 IPv6 support:          YES
+ 11408:20221223:122621.112 TLS support:            NO
+ 11408:20221223:122621.112 **************************
+ 11408:20221223:122621.112 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+ 11408:20221223:122621.112 agent #0 started [main process]
+  2952:20221223:122621.113 agent #1 started [collector]
+  1336:20221223:122621.114 agent #2 started [active checks #1]
+  2740:20221223:122646.281 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+  5228:20221223:122646.528 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+  5228:20221223:122646.528 **** Enabled features ****
+  5228:20221223:122646.528 IPv6 support:          YES
+  5228:20221223:122646.528 TLS support:            NO
+  5228:20221223:122646.529 **************************
+  5228:20221223:122646.529 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+  5228:20221223:122646.529 agent #0 started [main process]
+  4768:20221223:122646.529 agent #1 started [collector]
+ 15348:20221223:122646.530 agent #2 started [active checks #1]
+ 10288:20221223:122658.033 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+  9908:20221223:122658.367 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+  9908:20221223:122658.368 **** Enabled features ****
+  9908:20221223:122658.368 IPv6 support:          YES
+  9908:20221223:122658.368 TLS support:            NO
+  9908:20221223:122658.368 **************************
+  9908:20221223:122658.368 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+  9908:20221223:122658.368 agent #0 started [main process]
+ 13808:20221223:122658.369 agent #1 started [collector]
+  5528:20221223:122658.369 agent #2 started [active checks #1]
+ 14932:20221223:122703.079 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+  1512:20221223:122703.320 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+  1512:20221223:122703.320 **** Enabled features ****
+  1512:20221223:122703.320 IPv6 support:          YES
+  1512:20221223:122703.321 TLS support:            NO
+  1512:20221223:122703.321 **************************
+  1512:20221223:122703.321 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+  1512:20221223:122703.321 agent #0 started [main process]
+ 12536:20221223:122703.321 agent #2 started [active checks #1]
+ 13608:20221223:122703.322 agent #1 started [collector]
+  9788:20221223:122746.916 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+  7228:20221223:122747.338 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+  7228:20221223:122747.338 **** Enabled features ****
+  7228:20221223:122747.338 IPv6 support:          YES
+  7228:20221223:122747.339 TLS support:            NO
+  7228:20221223:122747.339 **************************
+  7228:20221223:122747.339 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+  7228:20221223:122747.339 agent #0 started [main process]
+ 14132:20221223:122747.339 agent #1 started [collector]
+  7420:20221223:122747.340 agent #2 started [active checks #1]
+  7420:20221223:122752.940 active check "system.cpu.load[percpu,avg15]" is not supported: Collector is not started.
+  5080:20221223:122753.230 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+ 12436:20221223:122753.656 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+ 12436:20221223:122753.656 **** Enabled features ****
+ 12436:20221223:122753.656 IPv6 support:          YES
+ 12436:20221223:122753.656 TLS support:            NO
+ 12436:20221223:122753.656 **************************
+ 12436:20221223:122753.656 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+ 12436:20221223:122753.657 agent #0 started [main process]
+ 13928:20221223:122753.657 agent #1 started [collector]
+  2960:20221223:122753.657 agent #2 started [active checks #1]
+  5752:20221223:122758.157 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+  8128:20221223:122758.570 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+  8128:20221223:122758.570 **** Enabled features ****
+  8128:20221223:122758.571 IPv6 support:          YES
+  8128:20221223:122758.571 TLS support:            NO
+  8128:20221223:122758.571 **************************
+  8128:20221223:122758.571 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+  8128:20221223:122758.571 agent #0 started [main process]
+ 13676:20221223:122758.572 agent #2 started [active checks #1]
+ 11568:20221223:122758.572 agent #1 started [collector]
+ 12056:20221223:122920.076 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+  9352:20221223:122920.090 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+  9352:20221223:122920.090 **** Enabled features ****
+  9352:20221223:122920.091 IPv6 support:          YES
+  9352:20221223:122920.091 TLS support:            NO
+  9352:20221223:122920.091 **************************
+  9352:20221223:122920.091 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+  9352:20221223:122920.091 agent #0 started [main process]
+ 12332:20221223:122920.092 agent #1 started [collector]
+  9304:20221223:122920.092 agent #2 started [active checks #1]
+  5680:20221223:122946.338 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+ 11240:20221223:122946.352 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+ 11240:20221223:122946.352 **** Enabled features ****
+ 11240:20221223:122946.352 IPv6 support:          YES
+ 11240:20221223:122946.352 TLS support:            NO
+ 11240:20221223:122946.352 **************************
+ 11240:20221223:122946.352 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+ 11240:20221223:122946.353 agent #0 started [main process]
+ 13492:20221223:122946.353 agent #1 started [collector]
+ 12732:20221223:122946.354 agent #2 started [active checks #1]
+ 12732:20221223:122952.725 active check "system.cpu.load[percpu,avg15]" is not supported: Collector is not started.
+ 11888:20221223:122952.727 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+  1556:20221223:122953.407 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+  1556:20221223:122953.407 **** Enabled features ****
+  1556:20221223:122953.407 IPv6 support:          YES
+  1556:20221223:122953.407 TLS support:            NO
+  1556:20221223:122953.407 **************************
+  1556:20221223:122953.408 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+  1556:20221223:122953.408 agent #0 started [main process]
+  9596:20221223:122953.408 agent #2 started [active checks #1]
+  6248:20221223:122953.408 agent #1 started [collector]
+ 10232:20221223:122958.012 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+ 12056:20221223:122958.323 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+ 12056:20221223:122958.324 **** Enabled features ****
+ 12056:20221223:122958.324 IPv6 support:          YES
+ 12056:20221223:122958.324 TLS support:            NO
+ 12056:20221223:122958.324 **************************
+ 12056:20221223:122958.324 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+ 12056:20221223:122958.324 agent #0 started [main process]
+ 10288:20221223:122958.325 agent #1 started [collector]
+ 11104:20221223:122958.325 agent #2 started [active checks #1]
+  1984:20221223:123651.192 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+ 12268:20221223:123651.694 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+ 12268:20221223:123651.694 **** Enabled features ****
+ 12268:20221223:123651.694 IPv6 support:          YES
+ 12268:20221223:123651.694 TLS support:            NO
+ 12268:20221223:123651.695 **************************
+ 12268:20221223:123651.695 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+ 12268:20221223:123651.695 agent #0 started [main process]
+ 14212:20221223:123651.695 agent #1 started [collector]
+  6516:20221223:123651.695 agent #2 started [active checks #1]
+   840:20221223:123940.791 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+  3632:20221223:123941.278 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+  3632:20221223:123941.278 **** Enabled features ****
+  3632:20221223:123941.278 IPv6 support:          YES
+  3632:20221223:123941.278 TLS support:            NO
+  3632:20221223:123941.278 **************************
+  3632:20221223:123941.278 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+  3632:20221223:123941.278 agent #0 started [main process]
+ 12332:20221223:123941.279 agent #1 started [collector]
+ 15212:20221223:123941.279 agent #2 started [active checks #1]
+ 11232:20221223:123946.569 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+ 15004:20221223:123946.735 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+ 15004:20221223:123946.735 **** Enabled features ****
+ 15004:20221223:123946.735 IPv6 support:          YES
+ 15004:20221223:123946.735 TLS support:            NO
+ 15004:20221223:123946.736 **************************
+ 15004:20221223:123946.736 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+ 15004:20221223:123946.736 agent #0 started [main process]
+ 10392:20221223:123946.736 agent #1 started [collector]
+  9356:20221223:123946.736 agent #2 started [active checks #1]
+ 10640:20230220:143522.802 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+ 12044:20230220:143524.427 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+ 12044:20230220:143524.427 **** Enabled features ****
+ 12044:20230220:143524.428 IPv6 support:          YES
+ 12044:20230220:143524.428 TLS support:            NO
+ 12044:20230220:143524.428 **************************
+ 12044:20230220:143524.428 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+ 12044:20230220:143524.428 agent #0 started [main process]
+  8040:20230220:143524.429 agent #1 started [collector]
+  8744:20230220:143524.429 agent #2 started [active checks #1]
+ 11176:20230220:143529.411 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+  2124:20230220:143530.867 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+  2124:20230220:143530.868 **** Enabled features ****
+  2124:20230220:143530.868 IPv6 support:          YES
+  2124:20230220:143530.868 TLS support:            NO
+  2124:20230220:143530.868 **************************
+  2124:20230220:143530.868 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+  2124:20230220:143530.868 agent #0 started [main process]
+ 11320:20230220:143530.869 agent #1 started [collector]
+  5228:20230220:143530.869 agent #2 started [active checks #1]
+  3104:20230220:152221.336 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+  8828:20230220:152222.316 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+  8828:20230220:152222.316 **** Enabled features ****
+  8828:20230220:152222.316 IPv6 support:          YES
+  8828:20230220:152222.317 TLS support:            NO
+  8828:20230220:152222.317 **************************
+  8828:20230220:152222.317 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+  8828:20230220:152222.317 agent #0 started [main process]
+ 10568:20230220:152222.317 agent #1 started [collector]
+ 11848:20230220:152222.318 agent #2 started [active checks #1]
+  3680:20230220:152230.757 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+  4300:20230220:152231.202 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+  4300:20230220:152231.203 **** Enabled features ****
+  4300:20230220:152231.203 IPv6 support:          YES
+  4300:20230220:152231.203 TLS support:            NO
+  4300:20230220:152231.203 **************************
+  4300:20230220:152231.203 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+  4300:20230220:152231.204 agent #0 started [main process]
+ 12480:20230220:152231.204 agent #2 started [active checks #1]
+  2208:20230220:152231.204 agent #1 started [collector]
+ 12480:20230220:182323.663 active check data upload to [tipmon.totvsip.com.br:10051] started to fail ([connect] cannot connect to [[tipmon.totvsip.com.br]:10051]: A connection timeout occurred.)
+ 12480:20230220:184759.051 active check configuration update from [tipmon.totvsip.com.br:10051] started to fail (cannot connect to [[tipmon.totvsip.com.br]:10051]: A connection timeout occurred.)
+ 12480:20230220:185346.537 active check data upload to [tipmon.totvsip.com.br:10051] is working again
+ 12480:20230220:185416.727 active check configuration update from [tipmon.totvsip.com.br:10051] is working again
+  9484:20230303:103626.752 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+  9592:20230303:103629.045 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+  9592:20230303:103629.045 **** Enabled features ****
+  9592:20230303:103629.045 IPv6 support:          YES
+  9592:20230303:103629.045 TLS support:            NO
+  9592:20230303:103629.045 **************************
+  9592:20230303:103629.045 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+  9592:20230303:103629.046 agent #0 started [main process]
+ 11816:20230303:103629.046 agent #2 started [active checks #1]
+ 11084:20230303:103629.046 agent #1 started [collector]
+ 11816:20230303:103650.068 active check configuration update from [tipmon.totvsip.com.br:10991] started to fail (cannot connect to [[tipmon.totvsip.com.br]:10991]: A connection timeout occurred.)
+ 12700:20230303:103747.771 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+  4800:20230303:103750.272 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+  4800:20230303:103750.272 **** Enabled features ****
+  4800:20230303:103750.272 IPv6 support:          YES
+  4800:20230303:103750.272 TLS support:            NO
+  4800:20230303:103750.272 **************************
+  4800:20230303:103750.272 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+  4800:20230303:103750.273 agent #0 started [main process]
+ 13536:20230303:103750.273 agent #1 started [collector]
+ 14760:20230303:103750.273 agent #2 started [active checks #1]
+ 11784:20230303:103755.540 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+  8316:20230303:103800.050 Starting Zabbix Agent [ded_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+  8316:20230303:103800.050 **** Enabled features ****
+  8316:20230303:103800.050 IPv6 support:          YES
+  8316:20230303:103800.051 TLS support:            NO
+  8316:20230303:103800.051 **************************
+  8316:20230303:103800.051 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+  8316:20230303:103800.051 agent #0 started [main process]
+  9100:20230303:103800.052 agent #1 started [collector]
+  2184:20230303:103800.052 agent #2 started [active checks #1]
+ 11416:20230303:103821.257 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+ 15236:20230303:103822.025 Starting Zabbix Agent [tipmon_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+ 15236:20230303:103822.025 **** Enabled features ****
+ 15236:20230303:103822.026 IPv6 support:          YES
+ 15236:20230303:103822.026 TLS support:            NO
+ 15236:20230303:103822.026 **************************
+ 15236:20230303:103822.026 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+ 15236:20230303:103822.027 agent #0 started [main process]
+ 12696:20230303:103822.027 agent #1 started [collector]
+  2292:20230303:103822.027 agent #2 started [active checks #1]
+ 12852:20230303:103828.393 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+  9968:20230303:103828.883 Starting Zabbix Agent [tipmon_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+  9968:20230303:103828.883 **** Enabled features ****
+  9968:20230303:103828.883 IPv6 support:          YES
+  9968:20230303:103828.883 TLS support:            NO
+  9968:20230303:103828.884 **************************
+  9968:20230303:103828.884 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+  9968:20230303:103828.884 agent #0 started [main process]
+  5456:20230303:103828.884 agent #2 started [active checks #1]
+  9564:20230303:103828.885 agent #1 started [collector]
+  5456:20230303:103836.261 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 14316:20230303:103912.104 Starting Zabbix Agent [tipmon_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+ 14316:20230303:103912.104 **** Enabled features ****
+ 14316:20230303:103912.105 IPv6 support:          YES
+ 14316:20230303:103912.105 TLS support:            NO
+ 14316:20230303:103912.105 **************************
+ 14316:20230303:103912.105 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+ 14316:20230303:103912.105 agent #0 started [main process]
+ 11800:20230303:103912.106 agent #2 started [active checks #1]
+ 15020:20230303:103912.106 agent #1 started [collector]
+ 11800:20230303:103919.518 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:103951.379 active check "totvs.tamanhoDir[C:\tipmon\windows,{$DIRETORIOS_PROTHEUS}]" is not supported: Unsupported item key.
+ 11800:20230303:104919.879 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:105919.312 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:110919.605 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:111919.710 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:112919.228 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:113920.751 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:114920.550 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:115920.778 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:120920.471 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:121921.365 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:122922.371 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:123923.157 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:124923.659 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:125923.919 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:130924.407 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:131925.246 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:132926.393 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:133926.392 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:134926.902 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:135926.472 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:140927.336 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:141928.277 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:142929.107 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:143929.496 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:144929.999 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:145929.483 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:150929.548 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:151930.474 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:152932.098 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:153932.402 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:154932.542 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:155932.576 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:160932.440 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:161932.904 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:162932.594 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:163933.364 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:164933.448 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:165934.055 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:170935.176 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:171935.769 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:172935.407 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:173936.224 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:174936.594 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:175937.016 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:180937.831 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:181937.598 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:182938.156 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:183938.866 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:184938.741 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:185939.024 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:190939.999 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:191939.637 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:192939.428 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:193940.209 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:194940.963 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:195940.585 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:200941.220 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:201941.858 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:202941.392 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:203941.746 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:204942.052 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:205942.633 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:210942.505 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:211943.266 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:212943.963 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:213943.632 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:214943.579 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:215944.263 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:220945.407 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:221946.372 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:222946.974 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:223946.723 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:224326.067 active check "windows.FragmentacaoDiscoWindows[C:\tipmon\windows,C:]" is not supported: Timeout while executing a shell script.
+ 11800:20230303:224946.975 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:225946.658 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:230946.395 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:231947.106 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:232947.731 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:233947.842 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:234948.015 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230303:235948.769 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:000948.927 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:001949.243 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:002949.867 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:003949.879 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:004949.645 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:005950.215 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:010950.775 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:011950.875 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:012950.579 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:013951.185 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:014951.369 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:015952.283 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:020953.250 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:022007.565 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:023008.319 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:024008.666 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:025009.294 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:030009.581 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:031010.218 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:032010.764 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:033010.980 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:034011.018 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:035011.826 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:040012.452 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:041012.386 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:042013.115 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:043014.359 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:044015.429 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:045016.166 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:050017.376 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:051018.323 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:052019.064 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:053020.212 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:054021.245 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:055021.914 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:060021.864 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:061021.880 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:062021.819 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:063022.105 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:064022.651 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:065023.205 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:070024.778 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:071024.864 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:072024.484 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:073024.619 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:074034.219 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:075034.825 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:080034.565 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:081034.716 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:082035.207 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:083036.120 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:084037.084 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:085038.188 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:090039.344 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:091040.358 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:092040.648 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:093041.189 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:094041.850 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:095042.078 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:100042.909 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:101042.892 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:102042.499 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:103043.215 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:103953.542 active check "totvs.tamanhoDir[C:\tipmon\windows,{$DIRETORIOS_PROTHEUS}]" is not supported: Unsupported item key.
+ 11800:20230304:104043.793 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:104706.362 active check "windows.FragmentacaoDiscoWindows[C:\tipmon\windows,C:]" is not supported: Timeout while executing a shell script.
+ 11800:20230304:105043.718 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:110043.676 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:111043.600 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:112043.920 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:113043.845 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:114043.518 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:115044.272 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:120044.906 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:121044.710 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:122044.576 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:123044.536 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:124044.494 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:125044.889 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:130045.181 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:131045.579 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:132046.301 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:133046.960 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:134047.318 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:135048.389 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:140048.703 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:141049.064 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:142049.964 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:143049.499 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:144050.365 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:145053.156 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:150053.455 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:151053.986 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:152054.025 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:153054.997 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:154054.928 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:155055.381 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:160055.916 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:161056.411 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:162057.341 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:163057.917 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:164058.006 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:165100.437 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:170101.299 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:171101.705 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:172108.451 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:173109.049 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:174110.050 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:175124.503 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:180124.457 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:181124.877 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:182125.926 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:183125.562 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:184125.890 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:185125.639 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:190125.581 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:191126.081 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:192140.999 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:193141.246 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:194141.520 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:195156.695 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:200156.835 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:201157.315 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:202211.835 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:203212.367 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:204212.994 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:205227.517 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:210227.449 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:211227.814 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:212228.135 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:213230.446 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:214231.416 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:215243.183 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:220244.751 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:221259.473 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:222319.785 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:223336.287 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:224356.500 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:224736.083 active check "windows.FragmentacaoDiscoWindows[C:\tipmon\windows,C:]" is not supported: Timeout while executing a shell script.
+ 11800:20230304:225409.933 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:230427.929 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:231443.737 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:232459.169 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:233513.822 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:234513.981 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230304:235513.765 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:000513.955 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:001514.410 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:002515.003 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:003515.524 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:004515.422 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:005515.958 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:010515.806 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:011516.288 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:012517.046 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:013518.149 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:014518.439 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:015519.193 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:020520.273 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:021521.122 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:022529.160 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:023530.283 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:024530.436 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:025543.993 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:030544.052 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:031545.119 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:032553.512 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:033554.101 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:034554.720 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:035601.389 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:040601.492 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:041602.384 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:042606.656 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:043606.502 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:044606.940 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:045606.622 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:050606.932 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:051607.279 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:052608.350 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:053608.601 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:054608.634 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:055608.946 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:060608.653 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:061608.430 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:062619.049 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:063619.931 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:064619.536 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:065623.750 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:070627.925 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:071627.411 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:072637.403 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:073638.354 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:074638.806 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:075649.521 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:080650.163 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:081651.374 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:082701.725 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:083716.275 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:084716.467 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:085724.404 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:090724.892 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:091724.432 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:092725.091 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:093726.084 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:094727.036 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:095730.526 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:100730.577 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:101731.082 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:102745.371 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:103746.378 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:103953.701 active check "totvs.tamanhoDir[C:\tipmon\windows,{$DIRETORIOS_PROTHEUS}]" is not supported: Unsupported item key.
+ 11800:20230305:104746.748 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:105051.712 active check "windows.FragmentacaoDiscoWindows[C:\tipmon\windows,C:]" is not supported: Timeout while executing a shell script.
+ 11800:20230305:105800.667 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:110800.633 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:111802.174 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:112815.959 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:113816.270 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:114816.499 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:115831.481 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:120831.412 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:121832.329 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:122846.966 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:123846.892 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:124847.713 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:125901.964 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:130901.511 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:131901.491 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:132901.786 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:133901.725 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:134901.834 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:135901.590 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:140902.047 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:141903.196 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:142903.679 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:143904.044 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:144905.338 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:145905.705 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:150906.200 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:151906.936 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:152937.935 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:153937.422 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:154937.564 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:155938.371 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:160939.124 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:161941.276 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:162953.510 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:163953.736 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:164954.172 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:170009.749 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:171010.195 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:172011.095 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:173025.997 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:174027.500 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:175027.036 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:180041.482 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:181042.081 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:182042.863 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:183057.785 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:184057.981 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:185058.914 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:190113.652 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:191113.719 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:192113.595 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:193114.118 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:194114.514 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:195114.566 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:200114.581 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:201115.344 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:202116.200 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:203116.973 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:204116.579 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:205116.704 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:210117.098 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:211118.624 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:212118.509 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:213118.488 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:214118.902 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:215118.979 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:220128.810 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:221129.090 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:222141.120 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:223144.783 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:224144.515 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:225121.744 active check "windows.FragmentacaoDiscoWindows[C:\tipmon\windows,C:]" is not supported: Timeout while executing a shell script.
+ 11800:20230305:225144.466 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:230145.217 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:231145.776 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:232145.481 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:233145.693 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:234150.998 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230305:235151.199 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:000152.285 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:001152.438 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:002153.300 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:003154.366 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:004156.143 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:005156.582 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:010156.622 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:011211.244 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:012211.713 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:013212.291 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:014226.335 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:015226.627 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:020227.175 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:021240.947 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:022240.695 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:023241.089 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:024256.372 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:025256.812 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:030257.112 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:031309.112 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:032309.653 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:033309.938 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:034324.714 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:035324.996 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:040325.040 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:041340.750 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:042341.096 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:043342.106 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:044356.114 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:045357.012 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:050357.655 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:051408.474 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:052409.094 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:053410.083 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:054424.662 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:055425.114 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:060425.688 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:061431.313 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:062432.024 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:063433.045 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:064445.833 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:065445.556 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:070446.342 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:071501.404 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:072501.903 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:073501.763 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:074501.936 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:075501.721 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:080501.414 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:081502.325 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:082503.051 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:083503.991 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:084503.766 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:085503.671 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:090514.348 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:091529.763 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:092529.466 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:093530.565 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:094531.154 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:095531.587 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:100532.038 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:101534.175 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:102535.333 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:103535.834 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:103953.053 active check "totvs.tamanhoDir[C:\tipmon\windows,{$DIRETORIOS_PROTHEUS}]" is not supported: Unsupported item key.
+ 11800:20230306:104549.019 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:105151.311 active check "windows.FragmentacaoDiscoWindows[C:\tipmon\windows,C:]" is not supported: Timeout while executing a shell script.
+ 11800:20230306:105549.403 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:110549.617 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:111600.093 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:112601.341 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:113601.606 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:114615.082 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:115616.453 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:120616.845 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:121630.005 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:122630.624 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:123630.435 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:124645.592 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:125645.785 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:130645.459 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:131646.041 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:132647.388 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 11800:20230306:133650.392 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  2056:20230306:133746.101 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+  3232:20230306:134016.004 Starting Zabbix Agent [tipmon_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+  3232:20230306:134016.004 **** Enabled features ****
+  3232:20230306:134016.004 IPv6 support:          YES
+  3232:20230306:134016.004 TLS support:            NO
+  3232:20230306:134016.004 **************************
+  3232:20230306:134016.004 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+  3232:20230306:134016.005 agent #0 started [main process]
+  3236:20230306:134016.005 agent #1 started [collector]
+  3240:20230306:134016.008 agent #2 started [active checks #1]
+  3240:20230306:134049.328 active check "windows.FragmentacaoDiscoWindows[C:\tipmon\windows,C:]" is not supported: Unsupported item key.
+  3240:20230306:134124.777 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:135136.306 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:140144.006 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:141154.081 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:142202.475 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:143210.300 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:144217.454 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:145225.236 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:150231.875 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:151239.065 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:152246.794 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:153253.977 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:154301.265 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:155309.304 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:160316.336 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:161327.386 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:162336.416 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:163343.307 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:164349.778 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:165357.644 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:170405.330 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:171413.613 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:172421.070 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:173428.501 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:174434.925 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:175441.501 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:180450.881 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:181458.704 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:182506.326 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:183514.620 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:184523.407 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:185530.704 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:190537.567 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:191543.714 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:192551.590 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:193558.474 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:194605.137 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:195612.468 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:200619.118 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:201627.119 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:202634.505 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:203642.527 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:204650.306 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:205656.848 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:210703.121 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:211711.401 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:212718.122 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:213725.158 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:214733.958 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:215741.681 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:220748.620 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:221755.938 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:222801.806 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:223808.156 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:224814.929 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:225820.959 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:230827.787 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:231833.862 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:232840.613 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:233847.496 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:234854.401 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230306:235902.279 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:000908.110 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:001913.000 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:002915.845 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:003924.692 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:004931.205 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:005939.833 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:010946.849 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:011952.875 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:012958.952 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:014007.174 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:014049.072 active check "windows.FragmentacaoDiscoWindows[C:\tipmon\windows,C:]" is not supported: Unsupported item key.
+  3240:20230307:015014.200 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:020021.969 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:021029.190 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:022040.622 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:023047.638 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:024054.271 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:025102.093 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:030110.046 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:031118.495 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:032124.699 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:033130.727 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:034138.145 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:035146.246 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:040154.151 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:041202.601 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:042209.262 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:043217.488 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:044223.752 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:045231.022 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:050238.985 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:051245.160 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:052251.693 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:053258.688 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:054305.500 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:055311.913 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:060317.735 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:061324.710 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:062331.316 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:063338.287 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:064346.165 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:065353.035 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:070359.807 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:071407.315 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:072413.769 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:073419.929 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:074427.852 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:075434.565 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:080443.356 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:081450.595 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:082458.451 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:083504.807 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:084512.627 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:085518.722 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:090526.554 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:091538.481 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:092545.074 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:093551.760 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:094558.078 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:095606.265 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:100613.935 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:101621.429 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:102628.822 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:103634.834 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:104641.760 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:105647.836 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:110654.598 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3240:20230307:111706.915 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3196:20230307:112526.705 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+ 11384:20230307:112528.829 Starting Zabbix Agent [tipmon_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+ 11384:20230307:112528.830 **** Enabled features ****
+ 11384:20230307:112528.830 IPv6 support:          YES
+ 11384:20230307:112528.830 TLS support:            NO
+ 11384:20230307:112528.830 **************************
+ 11384:20230307:112528.830 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+ 11384:20230307:112528.830 agent #0 started [main process]
+ 10912:20230307:112528.831 agent #2 started [active checks #1]
+ 13100:20230307:112528.831 agent #1 started [collector]
+  8424:20230307:112536.378 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+ 11140:20230307:112538.847 Starting Zabbix Agent [tipmon_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+ 11140:20230307:112538.848 **** Enabled features ****
+ 11140:20230307:112538.848 IPv6 support:          YES
+ 11140:20230307:112538.848 TLS support:            NO
+ 11140:20230307:112538.848 **************************
+ 11140:20230307:112538.848 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+ 11140:20230307:112538.848 agent #0 started [main process]
+ 13196:20230307:112538.849 agent #2 started [active checks #1]
+ 10608:20230307:112538.849 agent #1 started [collector]
+ 13196:20230307:112544.918 active check "windows.FragmentacaoDiscoWindows[C:\tipmon\windows,C:]" is not supported: Unsupported item key.
+ 13196:20230307:112600.544 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:113607.324 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:114614.650 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:115621.432 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:120627.681 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:121634.358 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:122644.268 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:123651.708 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:124659.303 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:125709.875 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:130717.360 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:131724.056 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:132734.847 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:133742.084 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:134748.725 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:135757.136 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:140805.449 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:141811.776 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:142825.266 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:143833.106 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:144840.480 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:145850.505 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:150858.252 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:151905.596 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:152911.875 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:153918.418 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:154925.619 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:155940.214 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:160947.199 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:161955.217 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:163003.293 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:164010.836 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:165017.398 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:170024.422 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 13196:20230307:170302.532 active check "totvs.tamanhoProtheus[C:\tipmon\windows,{$ROUTINE}]" is not supported: Unsupported item key.
+  7672:20230307:170437.069 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+ 12504:20230307:170438.155 Starting Zabbix Agent [tipmon_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+ 12504:20230307:170438.156 **** Enabled features ****
+ 12504:20230307:170438.156 IPv6 support:          YES
+ 12504:20230307:170438.156 TLS support:            NO
+ 12504:20230307:170438.156 **************************
+ 12504:20230307:170438.156 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+ 12504:20230307:170438.156 agent #0 started [main process]
+ 12372:20230307:170438.157 agent #1 started [collector]
+   556:20230307:170438.157 agent #2 started [active checks #1]
+   556:20230307:170446.835 active check "windows.FragmentacaoDiscoWindows[C:\tipmon\windows,C:]" is not supported: Unsupported item key.
+  7892:20230307:170454.911 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+  9932:20230307:170455.357 Starting Zabbix Agent [tipmon_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+  9932:20230307:170455.357 **** Enabled features ****
+  9932:20230307:170455.358 IPv6 support:          YES
+  9932:20230307:170455.358 TLS support:            NO
+  9932:20230307:170455.358 **************************
+  9932:20230307:170455.358 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+  9932:20230307:170455.358 agent #0 started [main process]
+ 10152:20230307:170455.358 agent #1 started [collector]
+  9176:20230307:170455.359 agent #2 started [active checks #1]
+  9176:20230307:170500.365 active check "windows.FragmentacaoDiscoWindows[C:\tipmon\windows,C:]" is not supported: Unsupported item key.
+  9176:20230307:170516.066 active check "windows.LatenciaEntreServidores[C:\tipmon\windows]" is not supported: Unsupported item key.
+ 10444:20230307:170955.752 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+  3840:20230307:170957.459 Starting Zabbix Agent [tipmon_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+  3840:20230307:170957.459 **** Enabled features ****
+  3840:20230307:170957.459 IPv6 support:          YES
+  3840:20230307:170957.459 TLS support:            NO
+  3840:20230307:170957.459 **************************
+  3840:20230307:170957.460 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+  3840:20230307:170957.460 agent #0 started [main process]
+  8804:20230307:170957.460 agent #1 started [collector]
+  8172:20230307:170957.460 agent #2 started [active checks #1]
+ 11800:20230307:171002.032 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+ 13272:20230307:171004.212 Starting Zabbix Agent [tipmon_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+ 13272:20230307:171004.212 **** Enabled features ****
+ 13272:20230307:171004.212 IPv6 support:          YES
+ 13272:20230307:171004.213 TLS support:            NO
+ 13272:20230307:171004.213 **************************
+ 13272:20230307:171004.213 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+ 13272:20230307:171004.213 agent #0 started [main process]
+ 11544:20230307:171004.214 agent #1 started [collector]
+  8200:20230307:171004.214 agent #2 started [active checks #1]
+  8200:20230307:171009.209 active check "windows.FragmentacaoDiscoWindows[C:\tipmon\windows,C:]" is not supported: Unsupported item key.
+ 13244:20230307:173500.181 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+ 10488:20230307:173500.758 Starting Zabbix Agent [tipmon_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+ 10488:20230307:173500.758 **** Enabled features ****
+ 10488:20230307:173500.759 IPv6 support:          YES
+ 10488:20230307:173500.759 TLS support:            NO
+ 10488:20230307:173500.759 **************************
+ 10488:20230307:173500.759 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+ 10488:20230307:173500.759 agent #0 started [main process]
+  2772:20230307:173500.760 agent #2 started [active checks #1]
+ 13024:20230307:173500.760 agent #1 started [collector]
+  2772:20230307:173505.683 active check "windows.FragmentacaoDiscoWindows[C:\tipmon\windows,C:]" is not supported: Unsupported item key.
+  2772:20230308:053505.162 active check "windows.FragmentacaoDiscoWindows[C:\tipmon\windows,C:]" is not supported: Unsupported item key.
+  2772:20230308:173505.924 active check "windows.FragmentacaoDiscoWindows[C:\tipmon\windows,C:]" is not supported: Unsupported item key.
+  2772:20230309:053505.743 active check "windows.FragmentacaoDiscoWindows[C:\tipmon\windows,C:]" is not supported: Unsupported item key.
+  2772:20230309:173505.638 active check "windows.FragmentacaoDiscoWindows[C:\tipmon\windows,C:]" is not supported: Unsupported item key.
+  2772:20230310:053505.480 active check "windows.FragmentacaoDiscoWindows[C:\tipmon\windows,C:]" is not supported: Unsupported item key.
+  2772:20230310:173505.463 active check "windows.FragmentacaoDiscoWindows[C:\tipmon\windows,C:]" is not supported: Unsupported item key.
+ 11900:20230311:150848.912 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+  3164:20230311:184149.476 Starting Zabbix Agent [tipmon_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+  3164:20230311:184149.476 **** Enabled features ****
+  3164:20230311:184149.476 IPv6 support:          YES
+  3164:20230311:184149.476 TLS support:            NO
+  3164:20230311:184149.476 **************************
+  3164:20230311:184149.476 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+  3164:20230311:184149.477 agent #0 started [main process]
+  3176:20230311:184149.477 agent #2 started [active checks #1]
+  3172:20230311:184149.478 agent #1 started [collector]
+  3176:20230314:113209.368 active check "totvs.backup[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3176:20230314:123209.022 active check "totvs.backup[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3176:20230314:133209.194 active check "totvs.backup[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3176:20230314:143209.839 active check "totvs.backup[C:\tipmon\windows]" is not supported: Unsupported item key.
+  3152:20230314:143732.872 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+  3468:20230314:143734.093 Starting Zabbix Agent [tipmon_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+  3468:20230314:143734.093 **** Enabled features ****
+  3468:20230314:143734.093 IPv6 support:          YES
+  3468:20230314:143734.093 TLS support:            NO
+  3468:20230314:143734.094 **************************
+  3468:20230314:143734.094 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+  3468:20230314:143734.094 agent #0 started [main process]
+ 10972:20230314:143734.094 agent #1 started [collector]
+  4504:20230314:143734.094 agent #2 started [active checks #1]
+ 10700:20230314:143739.291 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+  5116:20230314:143740.034 Starting Zabbix Agent [tipmon_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+  5116:20230314:143740.034 **** Enabled features ****
+  5116:20230314:143740.034 IPv6 support:          YES
+  5116:20230314:143740.034 TLS support:            NO
+  5116:20230314:143740.035 **************************
+  5116:20230314:143740.035 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+  5116:20230314:143740.035 agent #0 started [main process]
+ 11128:20230314:143740.035 agent #1 started [collector]
+ 10688:20230314:143740.035 agent #2 started [active checks #1]
+ 10476:20230314:143745.001 Zabbix Agent stopped. Zabbix 4.0.5 (revision 90164).
+  9600:20230314:143745.572 Starting Zabbix Agent [tipmon_BROSDK015_windows]. Zabbix 4.0.5 (revision 90164).
+  9600:20230314:143745.572 **** Enabled features ****
+  9600:20230314:143745.572 IPv6 support:          YES
+  9600:20230314:143745.572 TLS support:            NO
+  9600:20230314:143745.573 **************************
+  9600:20230314:143745.573 using configuration file: c:\TipMon\windows\conf\tipmon_agentd.conf
+  9600:20230314:143745.573 agent #0 started [main process]
+  3404:20230314:143745.573 agent #1 started [collector]
+ 10084:20230314:143745.574 agent #2 started [active checks #1]

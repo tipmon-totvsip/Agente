@@ -1,0 +1,194 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<style>table,tr,td { font:10pt Arial,Helvetica,sans-serif; text-align:left; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; }th { font:bold 12pt Arial,Helvetica,sans-serif; padding:0px 0px 0px 0px; text-align:left; 
+    color:#008dc0}</style>
+</head><body>
+<table>
+<colgroup><col/><col/></colgroup>
+<tr><th>Name</th><th>Model</th></tr>
+<tr><td>BROSDK015</td><td>VMware Virtual Platform</td></tr>
+</table>
+</body></html>
+<br>
+<br>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<style>table,tr,td { font:10pt Arial,Helvetica,sans-serif; text-align:left; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; }th { font:bold 12pt Arial,Helvetica,sans-serif; padding:0px 0px 0px 0px; text-align:left; 
+    color:#008dc0}</style>
+</head><body>
+<table>
+<colgroup><col/><col/></colgroup>
+<tr><th>Manufacturer</th><th>SerialNumber</th></tr>
+<tr><td>Phoenix Technologies LTD</td><td>VMware-42 0f a8 3b de 1c fc f5-4a 5f 62 b6 25 4b 16 c8</td></tr>
+</table>
+</body></html>
+<br>
+<br>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<style>table,tr,td { font:10pt Arial,Helvetica,sans-serif; text-align:left; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; }th { font:bold 12pt Arial,Helvetica,sans-serif; padding:0px 0px 0px 0px; text-align:left; 
+    color:#008dc0}</style>
+</head><body>
+<table>
+<colgroup><col/><col/></colgroup>
+<tr><th>Operating System</th><th>OSArchitecture</th></tr>
+<tr><td>Microsoft Windows Server 2012 R2 Datacenter</td><td>64-bit</td></tr>
+</table>
+</body></html>
+<br>
+<br>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<style>table,tr,td { font:10pt Arial,Helvetica,sans-serif; text-align:left; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; }th { font:bold 12pt Arial,Helvetica,sans-serif; padding:0px 0px 0px 0px; text-align:left; 
+    color:#008dc0}</style>
+</head><body>
+<table>
+<colgroup><col/><col/><col/><col/></colgroup>
+<tr><th>DeviceID</th><th>Name</th><th>MaxClockSpeed</th><th>NumberOfCores</th></tr>
+<tr><td>CPU0</td><td>Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz</td><td>2400</td><td>1</td></tr>
+<tr><td>CPU1</td><td>Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz</td><td>2400</td><td>1</td></tr>
+<tr><td>CPU2</td><td>Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz</td><td>2400</td><td>1</td></tr>
+<tr><td>CPU3</td><td>Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz</td><td>2400</td><td>1</td></tr>
+</table>
+</body></html>
+<br>
+<br>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<style>table,tr,td { font:10pt Arial,Helvetica,sans-serif; text-align:left; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; }th { font:bold 12pt Arial,Helvetica,sans-serif; padding:0px 0px 0px 0px; text-align:left; 
+    color:#008dc0}</style>
+</head><body>
+<table>
+<colgroup><col/><col/></colgroup>
+<tr><th>Physical Processors</th><th>Logical Processors</th></tr>
+<tr><td>4</td><td>4</td></tr>
+</table>
+</body></html>
+<br>
+<br>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<style>table,tr,td { font:10pt Arial,Helvetica,sans-serif; text-align:left; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; }th { font:bold 12pt Arial,Helvetica,sans-serif; padding:0px 0px 0px 0px; text-align:left; 
+    color:#008dc0}</style>
+</head><body>
+<table>
+<colgroup><col/><col/></colgroup>
+<tr><th>TotalPhysicalMemory (MB)</th><th>CreationClassName</th></tr>
+<tr><td>8191</td><td>Win32_ComputerSystem</td></tr>
+</table>
+</body></html>
+<br>
+<br>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<style>table,tr,td { font:10pt Arial,Helvetica,sans-serif; text-align:left; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; }th { font:bold 12pt Arial,Helvetica,sans-serif; padding:0px 0px 0px 0px; text-align:left; 
+    color:#008dc0}</style>
+</head><body>
+<table>
+<colgroup><col/><col/><col/></colgroup>
+<tr><th>DeviceID</th><th>Free Disk Space (GB)</th><th>Total Disk Size (GB)</th></tr>
+<tr><td>C:</td><td>69.3954849243164</td><td>199.655269622803</td></tr>
+<tr><td>D:</td><td>0</td><td>0</td></tr>
+</table>
+</body></html>
+<br>
+<br>
+<br>
+<br>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<style>table,tr,td { font:10pt Arial,Helvetica,sans-serif; text-align:left; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; }th { font:bold 12pt Arial,Helvetica,sans-serif; padding:0px 0px 0px 0px; text-align:left; 
+    color:#008dc0}</style>
+</head><body>
+<table>
+<colgroup><col/><col/></colgroup>
+<tr><th>Shared Folder</th><th>Shared Path</th></tr>
+<tr><td>ADMIN$</td><td>C:\Windows</td></tr>
+<tr><td>C$</td><td>C:\</td></tr>
+<tr><td>Comp</td><td>C:\Comp</td></tr>
+<tr><td>GIT</td><td>C:\GIT</td></tr>
+<tr><td>IPC$</td><td></td></tr>
+<tr><td>smartclient_producao</td><td>C:\TOTVS\Protheus\Protheus\bin\smartclient</td></tr>
+<tr><td>Users</td><td>C:\Users</td></tr>
+</table>
+</body></html>
+<br>
+<br>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<style>table,tr,td { font:10pt Arial,Helvetica,sans-serif; text-align:left; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; }th { font:bold 12pt Arial,Helvetica,sans-serif; padding:0px 0px 0px 0px; text-align:left; 
+    color:#008dc0}</style>
+</head><body>
+<table>
+<colgroup><col/><col/></colgroup>
+<tr><th>Windows PowerPlan</th><th>IsActive</th></tr>
+<tr><td>Balanced</td><td>True</td></tr>
+<tr><td>High performance</td><td>False</td></tr>
+<tr><td>Power saver</td><td>False</td></tr>
+</table>
+</body></html>
+<br>
+<br>
+
+    <head>
+    <style>table,tr,td { font:10pt Arial,Helvetica,sans-serif; text-align:left; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; }th { font:bold 12pt Arial,Helvetica,sans-serif; padding:0px 0px 0px 0px; text-align:left; 
+        color:#008dc0}</style>
+        <title>HTML TABLE</title>
+    </head>
+    <body>
+        <table>
+        <colgroup>
+            <col />
+            <col />
+        </colgroup>
+        <tr>
+            <th>Firewall</th>
+            <th>Enable</th>
+        </tr>
+        <tr>
+            <td>Domain</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Private</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Public</td>
+            <td>1</td>
+        </tr>
+        </table>
+    </body>
+    </html>
+<br>
+<br>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<style>table,tr,td { font:10pt Arial,Helvetica,sans-serif; text-align:left; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; }th { font:bold 12pt Arial,Helvetica,sans-serif; padding:0px 0px 0px 0px; text-align:left; 
+    color:#008dc0}</style>
+</head><body>
+<table>
+<colgroup><col/><col/><col/><col/></colgroup>
+<tr><th>Description</th><th>HotFixID</th><th>InstalledBy</th><th>InstalledOn</th></tr>
+<tr><td>Security Update</td><td>KB5022352</td><td>TOTVSIP\luan.guilherme</td><td>3/6/2023 12:00:00 AM</td></tr>
+<tr><td>Security Update</td><td>KB3037576</td><td>TOTVSIP\luan.guilherme</td><td>3/6/2023 12:00:00 AM</td></tr>
+<tr><td>Security Update</td><td>KB2968296</td><td>TOTVSIP\luan.guilherme</td><td>3/6/2023 12:00:00 AM</td></tr>
+<tr><td>Update</td><td>KB5022525</td><td>NT AUTHORITY\SYSTEM</td><td>3/6/2023 12:00:00 AM</td></tr>
+<tr><td>Update</td><td>KB5022508</td><td>TOTVSIP\luan.guilherme</td><td>3/6/2023 12:00:00 AM</td></tr>
+<tr><td>Security Update</td><td>KB3127222</td><td>TOTVSIP\luan.guilherme</td><td>3/6/2023 12:00:00 AM</td></tr>
+<tr><td>Security Update</td><td>KB3074545</td><td>TOTVSIP\luan.guilherme</td><td>3/6/2023 12:00:00 AM</td></tr>
+<tr><td>Security Update</td><td>KB2978122</td><td>TOTVSIP\luan.guilherme</td><td>2/15/2023 12:00:00 AM</td></tr>
+<tr><td>Update</td><td>KB3191564</td><td>TOTVSIP\danilo.juan</td><td>11/21/2022 12:00:00 AM</td></tr>
+<tr><td>Update</td><td>KB4601058</td><td>NT AUTHORITY\SYSTEM</td><td>5/6/2021 12:00:00 AM</td></tr>
+</table>
+</body></html>

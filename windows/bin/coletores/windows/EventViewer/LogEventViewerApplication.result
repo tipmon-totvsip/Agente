@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<style>table,tr,td { font:10pt Arial,Helvetica,sans-serif; text-align:left; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; }th { font:bold 12pt Arial,Helvetica,sans-serif; padding:0px 0px 0px 0px; text-align:left; 
+    color:#008dc0}</style>
+</head><body>
+<table>
+<colgroup><col/><col/><col/></colgroup>
+<tr><th>Source</th><th>EventID</th><th>Message</th></tr>
+<tr><td>ESENT</td><td>489</td><td>msmdsrv (1760) An attempt to open the file &quot;C:\Windows\system32\LogFiles\Sum\Api.log&quot; for read only access failed with system error 5 (0x00000005): &quot;Access is denied. &quot;.  The open file operation will fail with error -1032 (0xfffffbf8).</td></tr>
+<tr><td>MSSQLSERVER</td><td>615</td><td>Could not find database ID 2, name &#39;tempdb&#39;. The database may be offline. Wait a few minutes and try again.</td></tr>
+<tr><td>Perflib</td><td>1008</td><td>The description for Event ID &#39;-1073740816&#39; in Source &#39;Perflib&#39; cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:&#39;BITS&#39;, &#39;C:\Windows\System32\bitsperf.dll&#39;, &#39;8&#39;</td></tr>
+<tr><td>Report Server Windows Service (MSSQLSERVER)</td><td>107</td><td>Report Server Windows Service (MSSQLSERVER) cannot connect to the report server database.</td></tr>
+<tr><td>SQLSERVERAGENT</td><td>324</td><td>OpenSQLServerInstanceRegKey:GetRegKeyAccessMask failed (reason: 2).</td></tr>
+<tr><td>SQLWRITER</td><td>24583</td><td>Sqllib error: OLEDB Error encountered calling IDBInitialize::Initialize. hr = 0x80004005.
+SQLSTATE: 42000, Native Error: 18461
+Error state: 1, Severity: 14
+Source: Microsoft SQL Server Native Client 11.0
+Error message: Login failed for user &#39;TOTVSIP\BROSDK015$&#39;. Reason: Server is in single user mode. Only one administrator can connect at this time.
+DBPROP_INIT_DATASOURCE: BROSDK015\SQLSERVER
+DBPROP_INIT_CATALOG: master
+DBPROP_AUTH_INTEGRATED: SSPI
+</td></tr>
+</table>
+</body></html>
+<br>
+<br>
+<br>
+<br>

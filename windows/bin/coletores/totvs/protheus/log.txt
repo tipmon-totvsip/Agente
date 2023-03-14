@@ -1,0 +1,51 @@
+﻿    2023-03-13 15:35 Os arquivos de log foram removidos pelo usuário
+    2023-03-13 15:36 O mecanismo está recarregando as configurações...
+    2023-03-13 15:36 As configurações do mecanismo foram alteradas.  Recarregando o arquivo ini
+    2023-03-13 15:36 *** Um novo backup iniciou.  Número de tarefas na fila: 1 ***
+    2023-03-13 15:36 Prevenindo o sistema de entrar em modo dormir...
+    2023-03-13 15:36 ** Backupeando a tarefa "TESTE_BKP_PROTHEUS" **
+    2023-03-13 15:36 Contando os arquivos para a tarefa "TESTE_BKP_PROTHEUS"...
+    2023-03-13 15:36 Iniciando a imagem de Cópia Sombra de Volume para os drives: C:\
+    2023-03-13 15:37 O conjunto imagem de Cópia Sombra de Volume foi criado com sucesso
+    2023-03-13 15:37 Criando o diretório de destino "C:\TOTVS12\BKP\Protheus33 2023-03-13 15;37;01 (Completo)"
+    2023-03-13 15:37 O diretório de destino "C:\TOTVS12\BKP\Protheus33 2023-03-13 15;37;01 (Completo)" foi criado com sucesso
+    2023-03-13 15:37 Backupeando o diretório "GLOBALROOT\Device\HarddiskVolumeShadowCopy4\TOTVS12\Protheus33"
+    2023-03-13 15:38 Removendo um backup completo e todos os seus arquivos.  Motivo: existem 3 backup(s) completos não-guardados
+    2023-03-13 15:38 Arquivos de backup antigos para remover: C:\TOTVS12\BKP\Protheus33 2023-03-12 18;50;54 (Completo)
+    2023-03-13 15:38 Contando os arquivos para remover
+    2023-03-13 15:39 Número de arquivos não-ftp encontrados para remover: 3729
+    2023-03-13 15:39 Removendo backups antigos
+    2023-03-13 15:39 A operação de remoção foi completada com sucesso
+    2023-03-13 15:39 Removendo a imagem da Cópia Sombra de Volume "b5883ddf-e79b-4216-996d-9853c27bdb0e"
+    2023-03-13 15:39 O conjunto imagem de Cópia Sombra de Volume foi removido com sucesso
+    2023-03-13 15:39 Tempo total de backup para "TESTE_BKP_PROTHEUS": 0 horas, 2 minutos, 52 segundos
+    2023-03-13 15:39 ** Backup terminado para a tarefa "TESTE_BKP_PROTHEUS".  Erros: 0.  Arquivos processados: 3729.  Arquivos backupeados: 3729.  Tamanho total: 2.57 GB **
+    2023-03-13 15:39 -- 
+    2023-03-13 15:39 O sistema pode agora entrar em modo dormir
+    2023-03-13 15:39 Tempo total de backup: 0 horas, 2 minutos, 55 segundos
+    2023-03-13 15:39 *** Backup terminado.  Erros: 0.  Arquivos processados: 3729.  Arquivos backupeados: 3729.  Tamanho total: 2.57 GB ***
+    2023-03-13 15:39 -- 
+    2023-03-13 18:50 *** Um novo backup iniciou.  Número de tarefas na fila: 1 ***
+    2023-03-13 18:50 Prevenindo o sistema de entrar em modo dormir...
+    2023-03-13 18:50 ** Backupeando a tarefa "TESTE_BKP_PROTHEUS" **
+    2023-03-13 18:50 Contando os arquivos para a tarefa "TESTE_BKP_PROTHEUS"...
+    2023-03-13 18:50 Iniciando a imagem de Cópia Sombra de Volume para os drives: C:\
+    2023-03-13 18:50 O conjunto imagem de Cópia Sombra de Volume foi criado com sucesso
+    2023-03-13 18:50 Criando o diretório de destino "C:\TOTVS12\BKP\Protheus33 2023-03-13 18;50;57 (Completo)"
+    2023-03-13 18:50 O diretório de destino "C:\TOTVS12\BKP\Protheus33 2023-03-13 18;50;57 (Completo)" foi criado com sucesso
+    2023-03-13 18:50 Backupeando o diretório "GLOBALROOT\Device\HarddiskVolumeShadowCopy5\TOTVS12\Protheus33"
+    2023-03-13 18:53 Removendo um backup completo e todos os seus arquivos.  Motivo: existem 3 backup(s) completos não-guardados
+    2023-03-13 18:53 Arquivos de backup antigos para remover: C:\TOTVS12\BKP\Protheus33 2023-03-13 14;14;22 (Completo)
+    2023-03-13 18:53 Contando os arquivos para remover
+    2023-03-13 18:53 Número de arquivos não-ftp encontrados para remover: 3729
+    2023-03-13 18:53 Removendo backups antigos
+    2023-03-13 18:53 A operação de remoção foi completada com sucesso
+    2023-03-13 18:53 Removendo a imagem da Cópia Sombra de Volume "9d64078e-2db2-499a-98fa-15205abd6615"
+    2023-03-13 18:53 O conjunto imagem de Cópia Sombra de Volume foi removido com sucesso
+    2023-03-13 18:53 Tempo total de backup para "TESTE_BKP_PROTHEUS": 0 horas, 3 minutos, 3 segundos
+    2023-03-13 18:53 ** Backup terminado para a tarefa "TESTE_BKP_PROTHEUS".  Erros: 0.  Arquivos processados: 3729.  Arquivos backupeados: 3729.  Tamanho total: 2.57 GB **
+    2023-03-13 18:53 -- 
+    2023-03-13 18:53 O sistema pode agora entrar em modo dormir
+    2023-03-13 18:53 Tempo total de backup: 0 horas, 3 minutos, 7 segundos
+    2023-03-13 18:53 *** Backup terminado.  Erros: 0.  Arquivos processados: 3729.  Arquivos backupeados: 3729.  Tamanho total: 2.57 GB ***
+    2023-03-13 18:53 -- 

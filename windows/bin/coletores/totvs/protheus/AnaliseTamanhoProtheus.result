@@ -1,0 +1,10 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<style>table,tr,td { font:10pt Arial,Helvetica,sans-serif; text-align:left; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; }th { font:bold 12pt Arial,Helvetica,sans-serif; padding:0px 0px 0px 0px; text-align:left;color:#008dc0}</style>
+</head><body>
+        <table style="table:" border=1 width=65%">
+        <colgroup><col /><col /></colgroup>
+        <h2>TAMANHO PROTHEUS</h2>
+        <tr><th style="scope=col">Base Protheus</th><th style="scope=col">Tamanho da Base</th></tr><tr><td>PROTHEUS_LAB</td><td>2,399.78 MB</td></tr><tr><td>PROTHEUS_12</td><td>6,059.91 MB</td></tr></table></body></html>
